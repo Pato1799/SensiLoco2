@@ -2,7 +2,7 @@ import streamlit as st
 from gtts import gTTS
 import tempfile
 
-st.title("keep it cute")
+st.title("SensiLoco")
 
 texto = st.text_input("Escribe...")
 
