@@ -2,7 +2,7 @@ import streamlit as st
 from gtts import gTTS
 import io
 
-st.title("SensiLoco")
+st.title("Vocantor")
 
 texto = st.text_input("Escribe...")
 
